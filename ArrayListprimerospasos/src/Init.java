@@ -8,10 +8,7 @@
 //Para llamar a un método de lista, primero escribe el nombre de la variable que describe la lista, 
 //seguido de un punto y el nombre del método.
 
-
-
-//importar ArrayList
-
+//1- importar ArrayList
 
 import java.util.ArrayList;
 
