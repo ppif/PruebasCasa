@@ -3,7 +3,7 @@
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
   <class id="1" language="java" name="ProyectoGastos.Init" project="GestionGastos" 
     file="/GestionGastos/src/ProyectoGastos/Init.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="99" width="113" x="77" y="27"/>    
+    <position height="-1" width="-1" x="72" y="61"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -12,8 +12,8 @@
   </class>  
   <class id="2" language="java" name="utilidades.Utilidades" project="GestionGastos" 
     file="/GestionGastos/src/utilidades/Utilidades.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="119" y="237"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    <position height="115" width="152" x="10" y="145"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
@@ -30,7 +30,7 @@
   </class>  
   <class id="4" language="java" name="controler.ControlerGastos" project="GestionGastos" 
     file="/GestionGastos/src/controler/ControlerGastos.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="99" width="223" x="589" y="23"/>    
+    <position height="-1" width="-1" x="751" y="76"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -39,7 +39,7 @@
   </class>  
   <class id="5" language="java" name="controler.ControlerUsuario" project="GestionGastos" 
     file="/GestionGastos/src/controler/ControlerUsuario.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="99" width="226" x="589" y="152"/>    
+    <position height="99" width="226" x="640" y="156"/>    
     <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -48,7 +48,7 @@
   </class>  
   <class id="6" language="java" name="controler.LoginControler" project="GestionGastos" 
     file="/GestionGastos/src/controler/LoginControler.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="99" width="227" x="592" y="275"/>    
+    <position height="99" width="227" x="640" y="277"/>    
     <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -66,7 +66,7 @@
   </class>  
   <class id="8" language="java" name="modelo.Gasto" project="GestionGastos" file="/GestionGastos/src/modelo/Gasto.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="1063" y="417"/>    
+    <position height="-1" width="-1" x="708" y="540"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -75,7 +75,7 @@
   </class>  
   <class id="9" language="java" name="modelo.Usuario" project="GestionGastos" 
     file="/GestionGastos/src/modelo/Usuario.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="450" y="536"/>    
+    <position height="-1" width="-1" x="359" y="531"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
