@@ -1,12 +1,10 @@
 
-//El siguiente ejemplo demuestra la adición de algunas cadenas en una ArrayList
-//que contiene cadenas. La suma se realiza con el método list add, 
+//El siguiente ejemplo demuestra la adición de algunas cadenas en una ArrayList que contiene cadenas. 
+//La suma se realiza con el método list add, 
 //que toma como parámetro el valor a agregar. 
 //Luego imprimimos el valor en la posición cero. 
-//Para recuperar un valor de una posición determinada, 
-//se utiliza el método de lista get, al que se le asigna el lugar de recuperación como parámetro.
-//Para llamar a un método de lista, primero escribe el nombre de la variable que describe la lista, 
-//seguido de un punto y el nombre del método.
+//Para recuperar un valor de una posición determinada,se utiliza el método de lista get, al que se le asigna el lugar de recuperación como parámetro.
+//Para llamar a un método de lista, primero escribe el nombre de la variable que describe la lista,seguido de un punto y el nombre del método.
 
 //1- importar ArrayList
 
